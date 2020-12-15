@@ -10,14 +10,14 @@ This package allows to quickly attach files to your models,
 
 You can install this package via composer. Laravel 5.5+ auto discovers the service provider.
 
-    composer require bnbwebexpertise/laravel-attachments
+    composer require hesammousavi/laravel-attachments
  
 
 ### Older Laravel 5.4 install
 
 For 5.4 support install version 0.0.16 :
 
-    composer require bnbwebexpertise/laravel-attachments:0.0.16
+    composer require hesammousavi/laravel-attachments:0.0.16
 
 Then add the service provider to your configuration :
 
